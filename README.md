@@ -40,7 +40,8 @@ The following are some of the basic line of code/queries/DAX expressions used du
    =SUM(number 1,[number 2])
    ~~~
 
-   
+### Data visuaization
+
    
      
 
