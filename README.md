@@ -36,6 +36,9 @@ The following are some of the basic line of code/queries/DAX expressions used du
      SELECT * FROM TABLE1
      WHERE CONDITION  = TRUE
      ~~~
+2. ~~~Microsoft Excel
+   =SUM(number 1,[number 2])
+   ~~~
 
    
    
