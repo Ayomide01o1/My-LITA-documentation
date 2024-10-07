@@ -44,4 +44,4 @@ The following are some of the basic line of code/queries/DAX expressions used du
 ![Bar chart](https://github.com/user-attachments/assets/63082fe0-0d18-449f-a434-8af084baba42)
 
 
-
+|
